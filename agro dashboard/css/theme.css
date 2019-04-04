@@ -323,7 +323,7 @@ section {
 }
 
 .main-content {
-    padding-top: 116px;
+    padding-top: 12px;
     min-height: 100vh;
 }
 
@@ -2167,7 +2167,7 @@ section {
 }
 
 .account2 {
-    padding: 38px;
+    padding: 34px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -3611,8 +3611,8 @@ section {
 }
 
 .avatar {
-    height: 60px;
-    width: 60px;
+    height: 100px;
+    width: 100px;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
