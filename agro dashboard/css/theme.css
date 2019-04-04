@@ -48,6 +48,9 @@ Notes:	decreasing heading by 0.4em with every subsequent heading level
     box-sizing: border-box;
 }
 
+
+
+
 .nalika-profile {
     padding: 20px;
 	position: relative;
@@ -3611,8 +3614,8 @@ section {
 }
 
 .avatar {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
